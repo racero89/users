@@ -11,3 +11,13 @@ h1 {
 }
 
 
+#listaUsuarios {
+  list-style: none;
+  padding: 0;
+}
+
+#listaUsuarios {
+  display: flex;
+  align-items: center;
+  margin-bottom: 60px;
+}
